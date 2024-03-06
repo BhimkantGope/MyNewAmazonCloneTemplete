@@ -1,1 +1,1 @@
-# MyNewAmazonCloneTemplete
+# MyNewAmazonCloneTemplate
